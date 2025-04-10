@@ -51,4 +51,3 @@ GTA San Andreas é um clássico absoluto. Coletar 100% dos itens era uma tarefa 
 
 Esse projeto é livre para ser usado como inspiração, meme, ou lembrança.  
 Feito por fãs, para fãs. Sem fins lucrativos.
-```
