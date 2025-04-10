@@ -1,6 +1,4 @@
-Aqui está o conteúdo completo em **Markdown (`README.md`)** formatado:
 
-```markdown
 # 🌐 Site do Santana – Projeto HistóricO do MenorBL2
 
 Este projeto foi criado há cerca de 5 anos como uma forma de auxiliar o streamer **MenorBL2**, também conhecido como **Brenon**, em sua jornada para completar 100% o **GTA San Andreas** durante suas transmissões ao vivo na Twitch.
