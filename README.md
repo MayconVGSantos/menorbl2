@@ -1,7 +1,7 @@
 
 # 🌐 Site do Santana – Projeto Histórico do MenorBL2
 
-Este projeto foi criado há cerca de 5 anos como uma forma de auxiliar o streamer **MenorBL2**, também conhecido como **Brenon**, em sua jornada para completar 100% o **GTA San Andreas** durante suas transmissões ao vivo na Twitch.
+Este projeto foi criado há cerca de 5 anos como uma forma de auxiliar o streamer **MenorBL2**, também conhecido como **Brendon**, em sua jornada para completar 100% o **GTA San Andreas** durante suas transmissões ao vivo na Twitch.
 
 O site trazia a localização de itens colecionáveis no jogo, como:
 
